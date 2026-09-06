@@ -1,0 +1,8 @@
+{
+  "name": "rishav-mishra-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Rishav Mishra \u2014 Content Strategist and Growth",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
