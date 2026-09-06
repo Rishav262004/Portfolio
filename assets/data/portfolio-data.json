@@ -1,0 +1,1252 @@
+{
+  "profile": {
+    "name": "Rishav Mishra",
+    "initials": "RM",
+    "title": "Content Strategist and Growth",
+    "headline": "I write content that gets read, remembered, and shared.",
+    "bio": "Hey, I'm Rishav. I help founders, creators, and growing companies turn their ideas into clear, engaging content that stops people from scrolling. No generic AI fluff, no empty jargon. Just deep research, sharp hooks, and real stories that build genuine trust and grow audiences.",
+    "extendedBio": "Most company content is boring because it sounds like everyone else. I take complex industry topics, reports, and founder experiences and turn them into sharp posts, breakdown essays, and clear playbooks people actually want to read. I've scaled reach to over 1.1M+ impressions for founders, grown followings 3.44×, and managed community operations for companies like Notion.",
+    "location": "Navsari, Gujarat / Bhopal, India",
+    "email": "rishavmishra002@gmail.com",
+    "phone": "+91-787-499-1589",
+    "status": "Available for Content & Strategy Work",
+    "cgpa": "9.04",
+    "avatar": "assets/images/rishav.jpg",
+    "resumeUrl": "https://docs.google.com/document/d/1BcxcuZkgRLkzBlR_NGt8envOhLIDYnuAea99qxhufFw/edit?tab=t.8ugd522sig0u",
+    "funQuote": "Good content gives information. Great content shifts how you see the problem.",
+    "socials": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/rishavmishra002/",
+        "icon": "linkedin",
+        "handle": "in/rishavmishra002"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:rishavmishra002@gmail.com",
+        "icon": "mail",
+        "handle": "rishavmishra002@gmail.com"
+      }
+    ],
+    "highlightMetrics": [
+      {
+        "value": "1.17M+",
+        "label": "Top Client Reach",
+        "detail": "Single-month impressions for Prateek Toshniwal"
+      },
+      {
+        "value": "818K+",
+        "label": "Viral Distribution",
+        "detail": "30-day reach surge for Shivans Gupta"
+      },
+      {
+        "value": "761K+",
+        "label": "Executive Growth",
+        "detail": "Verified reach for Bharat Singhal"
+      },
+      {
+        "value": "3.44×",
+        "label": "Audience Lift",
+        "detail": "Twitter / X growth at Levo in 90 days"
+      }
+    ]
+  },
+  "frameworks": [
+    {
+      "id": "content-creation",
+      "title": "Content Creation & Architecture",
+      "badge": "Editorial Pipeline",
+      "tagline": "How I research, outline, write, and polish content that actually performs",
+      "summary": "The exact 5-step process I use to write high-engagement founder breakdowns, thought leadership posts, and teardowns.",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Find Trending Signals",
+          "shortTitle": "Trending Signals",
+          "tool": "Perplexity AI",
+          "metric": "Real-Time Signals",
+          "color": "#0d9488",
+          "description": "Scan industry conversations, reports, and breaking news to uncover what operators are actively debating.",
+          "breakdown": {
+            "overview": "I monitor real-time industry discussions, company earnings reports, and breaking product shifts on Perplexity and primary source feeds.",
+            "keyActions": [
+              "Run query matrices across founder communities and industry news reports.",
+              "Identify newly released industry benchmarks and unexpected percentage spikes.",
+              "Flag unanswered debates where conventional wisdom is being questioned."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Perplexity AI",
+                "purpose": "Trend analysis & primary source citation scanning"
+              },
+              {
+                "name": "Google Scholar",
+                "purpose": "Peer-reviewed research and validated data points"
+              }
+            ],
+            "decisionRule": "A high-search volume topic is worthless if it doesn't solve a real problem for the target audience.",
+            "outputArtifact": "A curated list of 5-7 raw topic candidates with primary reference links."
+          }
+        },
+        {
+          "number": 2,
+          "title": "Manual ICP Filter",
+          "shortTitle": "Manual Shortlist",
+          "tool": "Audience Filter",
+          "metric": "Relevance First",
+          "color": "#0284c7",
+          "description": "Filter topics strictly against the client's direct operating experience and target audience priorities.",
+          "breakdown": {
+            "overview": "I run each candidate topic through a 3-point filter: Does the client have firsthand authority on this? Does the reader care? Can we provide a non-obvious solution?",
+            "keyActions": [
+              "Eliminate generic trendjacking that doesn't build long-term authority.",
+              "Check if the topic speaks directly to decision-makers (Founders, Heads of Ops, Directors).",
+              "Match the topic with specific anecdotal lessons from the client's background."
+            ],
+            "toolsApplied": [
+              {
+                "name": "ICP Rubric",
+                "purpose": "Audience relevance checklist and persona alignment"
+              },
+              {
+                "name": "Founder Interview",
+                "purpose": "Extracting direct operational anecdotes and viewpoints"
+              }
+            ],
+            "decisionRule": "If anyone on the internet could have written it, it's not ready. It must sound uniquely grounded in the client's firsthand point of view.",
+            "outputArtifact": "1 shortlisted topic with an agreed-upon core angle."
+          }
+        },
+        {
+          "number": 3,
+          "title": "Find the Best Angle",
+          "shortTitle": "The Right Angle",
+          "tool": "Claude 3.5 Sonnet",
+          "metric": "Angle Mapping",
+          "color": "#7c3aed",
+          "description": "Brainstorm 5 distinct narrative angles (contrarian, teardown, case study, frameworks, data story) before writing a single sentence.",
+          "breakdown": {
+            "overview": "I test multiple angles to find the most gripping narrative hook before drafting.",
+            "keyActions": [
+              "Generate 5 distinct angles: Contrarian, Data Breakdown, Forensic Case Study, Playbook, Personal Anecdote.",
+              "Evaluate each angle for shareability and comment provocation.",
+              "Select the single most compelling hook that promises immediate, tangible value."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Claude 3.5 Sonnet",
+                "purpose": "Angle stress-testing and counter-perspective simulation"
+              },
+              {
+                "name": "Angle Matrix Sheet",
+                "purpose": "Scoring curiosity vs credibility for each angle"
+              }
+            ],
+            "decisionRule": "The best angle is always the one that makes the reader re-examine an everyday belief they took for granted.",
+            "outputArtifact": "Selected core angle with primary thesis statement and supporting outline."
+          }
+        },
+        {
+          "number": 4,
+          "title": "Write the 6-Part Anatomy",
+          "shortTitle": "6-Part Structure",
+          "tool": "Notion + Napkin AI",
+          "metric": "Structured Draft",
+          "color": "#d97706",
+          "description": "Structure the draft across 6 core components: Hook, Stakes, Core Insight, Case Evidence, Visual Diagram, and Actionable Callout.",
+          "breakdown": {
+            "overview": "Every breakdown follows a battle-tested 6-part architecture engineered for maximum retention, reader clarity, and effortless scanning.",
+            "keyActions": [
+              "Draft Part 1 (The Hook): A 2-line tension point that stops the feed scroll.",
+              "Draft Part 2 (The Stakes): Explain why this matters right now to the reader.",
+              "Draft Part 3 (Core Insight): Unpack the fundamental lesson or strategic shift.",
+              "Draft Part 4 (Case Evidence): Provide real metrics, brand names, and timelines.",
+              "Draft Part 5 (Visual Diagram): Generate an infographic using Napkin AI.",
+              "Draft Part 6 (Actionable Callout): Give a memorable closing lesson or question."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Notion Draft Engine",
+                "purpose": "Distraction-free Markdown drafting and revisions"
+              },
+              {
+                "name": "Napkin AI",
+                "purpose": "Generating clean vector diagrams and flowcharts in seconds"
+              }
+            ],
+            "decisionRule": "Never publish a wall of unbroken text. High retention requires rhythm: short sentences, punchy paragraphs, and clear subheadings.",
+            "outputArtifact": "Complete 6-part draft including visual diagram and reference data.",
+            "anatomyBlocks": [
+              {
+                "part": "01",
+                "name": "The Hook",
+                "role": "Stop the Scroll",
+                "description": "The first 2 lines. Creates curiosity and breaks expectations without clickbait."
+              },
+              {
+                "part": "02",
+                "name": "The Stakes",
+                "role": "Why It Matters",
+                "description": "Quickly explains why ignoring this costs money, time, or growth."
+              },
+              {
+                "part": "03",
+                "name": "Core Insight",
+                "role": "The Fundamental Shift",
+                "description": "Explains the non-obvious shift or strategy in clear, straightforward terms."
+              },
+              {
+                "part": "04",
+                "name": "Case Evidence",
+                "role": "Proof & Numbers",
+                "description": "Real numbers, dates, and examples that prove the strategy works in practice."
+              },
+              {
+                "part": "05",
+                "name": "Visual Diagram",
+                "role": "Visual Summary",
+                "description": "A clean flowchart or breakdown generated via Napkin AI for easy visual digestion."
+              },
+              {
+                "part": "06",
+                "name": "Actionable Callout",
+                "role": "Next Step",
+                "description": "A clear takeaway, question, or next step that encourages discussion in the comments."
+              }
+            ]
+          }
+        },
+        {
+          "number": 5,
+          "title": "Edit for Rhythm & Flow",
+          "shortTitle": "Flow & Polish",
+          "tool": "Human Polish",
+          "metric": "Human Voice",
+          "color": "#e11d48",
+          "description": "Read out loud to strip buzzwords, vary sentence cadence, ensure natural human phrasing, and verify every number.",
+          "breakdown": {
+            "overview": "The difference between generic AI text and high-converting writing is the final edit. I read every line out loud to ensure it sounds like a real operator speaking.",
+            "keyActions": [
+              "Strip buzzwords ('delve', 'testament', 'revolutionize', 'unleash', 'crucial').",
+              "Alternate between short, punchy statements and descriptive compound sentences.",
+              "Fact-check every single metric, company valuation, and date against original sources."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Hemingway Editor",
+                "purpose": "Monitoring sentence length and grade-level readability"
+              },
+              {
+                "name": "Out-Loud Reading Check",
+                "purpose": "Ensuring smooth spoken cadence and zero awkward transitions"
+              }
+            ],
+            "decisionRule": "If you wouldn't say it over coffee with a smart founder, delete it from the draft.",
+            "outputArtifact": "Publication-ready draft verified for voice, accuracy, and format."
+          }
+        }
+      ]
+    },
+    {
+      "id": "brand-positioning",
+      "title": "Brand Positioning & Narrative",
+      "badge": "Brand Strategy",
+      "tagline": "Turning founder experience into an undeniable category advantage",
+      "summary": "How I uncover a founder's unique advantage, clarify their point of view, and build category authority.",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Founder Story Extraction",
+          "shortTitle": "Story Extraction",
+          "tool": "Interview Protocol",
+          "metric": "Real Stories",
+          "color": "#0d9488",
+          "description": "Interview the founder to capture their unique operating insights, contrarian beliefs, and past career pivot moments.",
+          "breakdown": {
+            "overview": "I conduct a structured 45-minute story interview to uncover the founder's genuine viewpoints, hard-won lessons, and behind-the-scenes wins.",
+            "keyActions": [
+              "Ask about the hardest decisions, biggest mistakes, and counter-intuitive lessons learned.",
+              "Identify the 3 core themes the founder can speak on with true authority.",
+              "Record exact voice phrases, idioms, and natural storytelling cadence."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Otter.ai / Whisper",
+                "purpose": "High-accuracy transcription of founder voice notes"
+              },
+              {
+                "name": "Founder Voice Sheet",
+                "purpose": "Documenting signature tone, viewpoints, and banned words"
+              }
+            ],
+            "decisionRule": "Authenticity cannot be faked. True brand authority comes from real operating scar tissue and genuine lessons.",
+            "outputArtifact": "Founder Voice Guide & 10+ core story seeds."
+          }
+        },
+        {
+          "number": 2,
+          "title": "Category & Rival Mapping",
+          "shortTitle": "Category Map",
+          "tool": "Competitor Audit",
+          "metric": "Clear Differentiation",
+          "color": "#0284c7",
+          "description": "Analyze what competitors and peers are writing about to find the whitespace they are completely missing.",
+          "breakdown": {
+            "overview": "We map competitor messaging to identify where the market is saturated and where white space exists.",
+            "keyActions": [
+              "Audit top 5 competitor accounts for topic frequency and comment sentiment.",
+              "Identify tired, repetitive tropes the audience is visibly tired of reading.",
+              "Stake out 2-3 contrarian territory pillars where our client has a clear advantage."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Competitor Analysis Sheet",
+                "purpose": "Auditing competitor reach, topics, and comment sentiment"
+              },
+              {
+                "name": "Whitespace Grid",
+                "purpose": "Plotting neglected audience pain points against market noise"
+              }
+            ],
+            "decisionRule": "Never compete on volume where others have a head start. Compete on depth, point of view, and clearer frameworks.",
+            "outputArtifact": "Category Whitespace Map & Core Positioning Thesis."
+          }
+        },
+        {
+          "number": 3,
+          "title": "Core Content Pillars",
+          "shortTitle": "Pillars Setup",
+          "tool": "Pillar Matrix",
+          "metric": "3-Pillar System",
+          "color": "#d97706",
+          "description": "Build a repeatable 3-pillar content engine (Industry Insights, Founder Journey, Actionable Playbooks).",
+          "breakdown": {
+            "overview": "We establish a balanced content diet that keeps the audience educated, inspired, and engaged without feeling sold to.",
+            "keyActions": [
+              "Pillar 1 (40%): Deep Industry Insights & Market Breakdowns.",
+              "Pillar 2 (35%): Actionable Step-by-Step Playbooks and Frameworks.",
+              "Pillar 3 (25%): Behind-the-Scenes Founder Lessons & Culture."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Pillar Allocation Matrix",
+                "purpose": "Balancing weekly output across authority, utility, and personality"
+              },
+              {
+                "name": "Idea Generation Board",
+                "purpose": "Categorizing raw ideas under their respective pillar"
+              }
+            ],
+            "decisionRule": "Consistency comes from clarity. When you know your 3 pillars, you never sit down wondering what to write about.",
+            "outputArtifact": "Brand Content Architecture Guide with 30-day topic roadmap."
+          }
+        },
+        {
+          "number": 4,
+          "title": "Visual Identity in Text",
+          "shortTitle": "Visual Style",
+          "tool": "Style Guidelines",
+          "metric": "Consistent Voice",
+          "color": "#e11d48",
+          "description": "Establish signature formatting styles, visual diagram themes, and recurring weekly series formats.",
+          "breakdown": {
+            "overview": "Creating an unmistakable visual signature in the feed through consistent diagram design, formatting, and recurring weekly columns.",
+            "keyActions": [
+              "Define brand color palette and typography rules for Napkin AI diagrams.",
+              "Establish recurring series (e.g. 'Monday Teardown', 'Friday Playbook').",
+              "Set structural formatting rules for hooks, lists, quotes, and takeaways."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Diagram Theme Presets",
+                "purpose": "Pre-configured Napkin AI brand styling"
+              },
+              {
+                "name": "Formatting SOP",
+                "purpose": "Rules on whitespace, bullet styling, and bolding for scanning"
+              }
+            ],
+            "decisionRule": "Make your posts recognizable before the reader even checks the author name.",
+            "outputArtifact": "Visual Style Kit & Template Swipe File."
+          }
+        }
+      ]
+    },
+    {
+      "id": "growth-distribution",
+      "title": "Growth & Multi-Channel Distribution",
+      "badge": "Growth Strategy",
+      "tagline": "Multiplying reach across LinkedIn, Twitter/X, newsletters, and communities",
+      "summary": "A systematic playbook to turn 1 deep-dive asset into 10+ high-converting derivative formats across platforms.",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Anchor Asset Creation",
+          "shortTitle": "Anchor Asset",
+          "tool": "Deep-Dive Writing",
+          "metric": "High-Value Core",
+          "color": "#0d9488",
+          "description": "Produce 1 comprehensive, high-value flagship asset (in-depth case study, teardown essay, or industry report).",
+          "breakdown": {
+            "overview": "Every distribution flywheel starts with an exceptional, comprehensive core piece of intellectual property.",
+            "keyActions": [
+              "Conduct 4+ hours of primary source research and data synthesis.",
+              "Structure a 1,200 - 2,000 word deep-dive with proprietary frameworks and charts.",
+              "Get stakeholder sign-off on narrative accuracy and strategic claims."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Google Docs / Notion",
+                "purpose": "Long-form research synthesis and collaborative editing"
+              },
+              {
+                "name": "Primary Source Library",
+                "purpose": "Compiling reports, financial data, and verified metrics"
+              }
+            ],
+            "decisionRule": "You cannot distribute mediocre ideas. The anchor asset must be so valuable that readers bookmark and share it immediately.",
+            "outputArtifact": "1 Flagship Deep-Dive Essay / Case Study."
+          }
+        },
+        {
+          "number": 2,
+          "title": "Short-Form Social Breakdowns",
+          "shortTitle": "Social Cuts",
+          "tool": "LinkedIn & X Posts",
+          "metric": "Viral Reach",
+          "color": "#0284c7",
+          "description": "Extract the 3 sharpest insights from the anchor piece into high-hook standalone social posts.",
+          "breakdown": {
+            "overview": "I break the anchor piece into 3 distinct, self-contained social posts optimized for feed engagement.",
+            "keyActions": [
+              "Extract 3 standalone sub-lessons, each with its own tailored hook.",
+              "Format for LinkedIn with clean line spacing and bold takeaways.",
+              "Adapt the tone for Twitter/X with punchier sentences and threaded data."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Platform Formatter",
+                "purpose": "Optimizing line breaks and character counts per platform"
+              },
+              {
+                "name": "Hook Testing Tool",
+                "purpose": "Scoring curiosity and hook retention"
+              }
+            ],
+            "decisionRule": "Each derivative post must deliver complete value on its own without requiring the reader to click an external link.",
+            "outputArtifact": "3-5 standalone LinkedIn and Twitter/X posts scheduled across the week."
+          }
+        },
+        {
+          "number": 3,
+          "title": "Visual Carousels & Infographics",
+          "shortTitle": "Visual Repurposing",
+          "tool": "Napkin AI + Figma",
+          "metric": "High Dwell Time",
+          "color": "#d97706",
+          "description": "Convert complex processes and comparison charts into 5-8 slide visual PDF carousels that drive bookmarking.",
+          "breakdown": {
+            "overview": "Carousels generate the highest dwell time and save rates on professional feeds when formatted with crisp contrast.",
+            "keyActions": [
+              "Translate textual frameworks into step-by-step visual slides.",
+              "Keep text under 25 words per slide for effortless mobile consumption.",
+              "Include a strong summary slide with a clear save-for-later callout."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Napkin AI",
+                "purpose": "Instant flowchart and conceptual diagram generation"
+              },
+              {
+                "name": "Carousel Design Kit",
+                "purpose": "Exporting high-retention multi-slide assets"
+              }
+            ],
+            "decisionRule": "Create once, distribute aggressively across formats. Different decision-makers consume information differently.",
+            "outputArtifact": "10+ derivative promotional assets scheduled across platforms."
+          }
+        },
+        {
+          "number": 4,
+          "title": "Engagement Review & Iteration",
+          "shortTitle": "Data Review",
+          "tool": "Analytics Check",
+          "metric": "Iterate Fast",
+          "color": "#e11d48",
+          "description": "Track dwell time, comments, profile visits, and inbound leads to double down on winning hooks.",
+          "breakdown": {
+            "overview": "We measure real qualitative signals (founder comments, DM inquiries, newsletter signups) alongside raw impressions to evaluate true demand.",
+            "keyActions": [
+              "Review post analytics after 48 hours to identify the top 20% performing hooks.",
+              "Tag inbound leads by the specific post or case study that brought them in.",
+              "Refine the next batch of content based on audience questions left in comments."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Analytics Dashboard",
+                "purpose": "Tracking profile visits, conversions, and top hooks"
+              },
+              {
+                "name": "Comment Tagging Log",
+                "purpose": "Recording buyer objections for future posts"
+              }
+            ],
+            "decisionRule": "Look past vanity likes. 5 comments from senior target executives are worth 5,000 random impressions.",
+            "outputArtifact": "Campaign Retrospective Report with next-cycle optimization notes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "content-operations",
+      "title": "Content Operations & Systems",
+      "badge": "Operations",
+      "tagline": "Keeping publishing steady and organized without burning out",
+      "summary": "A simple Notion-based system to keep ideas, drafts, reviews, and published work in one clean place.",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Idea Backlog in Notion",
+          "shortTitle": "Idea Bank",
+          "tool": "Notion Database",
+          "metric": "Always Ideas",
+          "color": "#0d9488",
+          "description": "Maintain a centralized database of raw sparks, competitor notes, and audience questions so you never start from zero.",
+          "breakdown": {
+            "overview": "I build a streamlined Notion content engine that captures ideas instantly on mobile or desktop and organizes them by priority and pillar.",
+            "keyActions": [
+              "Set up an Idea Capture inbox with quick tags for pillar, priority, and source link.",
+              "Categorize drafts by status: Idea -> Outline -> Draft -> Review -> Scheduled -> Published.",
+              "Maintain a swipe file of top-performing industry hooks and visual formats."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Notion Relational Database",
+                "purpose": "Centralized idea bank with mobile capture widget"
+              },
+              {
+                "name": "Web Clipper",
+                "purpose": "Saving notable industry articles and data points on the fly"
+              }
+            ],
+            "decisionRule": "Writer's block is a systems failure. A well-maintained idea backlog means you always sit down to write with clear momentum.",
+            "outputArtifact": "Operational Notion Content Database with custom Kanban views."
+          }
+        },
+        {
+          "number": 2,
+          "title": "Weekly Production Schedule",
+          "shortTitle": "Weekly Pipeline",
+          "tool": "Notion Pipeline",
+          "metric": "Zero Rush",
+          "color": "#0284c7",
+          "description": "Establish a weekly rhythm for research, drafting, reviewing, and publishing to eliminate last-minute rushes.",
+          "breakdown": {
+            "overview": "We implement a strict weekly cadence that separates deep creative writing from administrative scheduling.",
+            "keyActions": [
+              "Monday: Signal detection, topic shortlisting, and outline approval.",
+              "Tuesday & Wednesday: Deep-focus drafting and visual diagram creation.",
+              "Thursday: Stakeholder review, fact-checking, and final out-loud polish.",
+              "Friday & Weekend: Scheduling and post-mortem review of the week's reach."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Editorial Calendar",
+                "purpose": "Time-blocked production stages with clear owners"
+              },
+              {
+                "name": "Automated Reminders",
+                "purpose": "Notifying reviewers before deadlines"
+              }
+            ],
+            "decisionRule": "Never research, draft, and publish on the same day. Batching by phase prevents creative fatigue and ensures consistent quality.",
+            "outputArtifact": "Weekly Editorial Calendar with locked deadlines."
+          }
+        },
+        {
+          "number": 3,
+          "title": "Pre-Publish Quality Check",
+          "shortTitle": "Quality Checklist",
+          "tool": "Editorial Check",
+          "metric": "Quality Gate",
+          "color": "#d97706",
+          "description": "Run every draft through a strict editorial checklist before anything goes live.",
+          "breakdown": {
+            "overview": "Every post must pass a 3-point checklist before scheduling to maintain high editorial standards.",
+            "keyActions": [
+              "Check 1 (Hook Quality): Does line 1 create curiosity without resorting to cheap clickbait?",
+              "Check 2 (Fact Integrity): Are all numbers, claims, and links verified against original sources?",
+              "Check 3 (Human Cadence): Does the copy sound natural when read out loud, with zero robotic jargon?"
+            ],
+            "toolsApplied": [
+              {
+                "name": "Editorial QA Checklist",
+                "purpose": "Standardized 3-gate quality assessment"
+              },
+              {
+                "name": "Grammar & Rhythm Scanner",
+                "purpose": "Ensuring active voice and short paragraph lengths"
+              }
+            ],
+            "decisionRule": "One bad post that sounds lazy or factually sloppy damages trust that took months to build.",
+            "outputArtifact": "Completed Quality Assurance Checklist for every scheduled post."
+          }
+        },
+        {
+          "number": 4,
+          "title": "Monthly Post-Mortem",
+          "shortTitle": "Monthly Review",
+          "tool": "Performance Retro",
+          "metric": "Continuous Growth",
+          "color": "#e11d48",
+          "description": "Analyze the top 3 and bottom 3 assets each month to isolate why specific hooks and narratives resonated.",
+          "breakdown": {
+            "overview": "At the end of every month, we conduct an analytical review of all published assets to find actionable patterns.",
+            "keyActions": [
+              "Compare the top 3 and bottom 3 posts across impressions, engagements, and comments.",
+              "Analyze hook structure, visual type, and time-of-day variables.",
+              "Update the audience persona document with new objections and conversation topics discovered in comments."
+            ],
+            "toolsApplied": [
+              {
+                "name": "Monthly Performance Log",
+                "purpose": "Quantitative ranking of all published assets"
+              },
+              {
+                "name": "Retro Summary Sheet",
+                "purpose": "Documenting lessons for the next 30-day sprint"
+              }
+            ],
+            "decisionRule": "Continuous improvement compounds. Small 5% improvements in hook clarity and structure turn average accounts into category leaders.",
+            "outputArtifact": "Monthly Editorial Retro Deck with data-backed adjustments."
+          }
+        }
+      ]
+    }
+  ],
+  "clients": [
+    {
+      "id": "prateek-toshniwal",
+      "type": "client",
+      "monogram": "PT",
+      "initials": "PT",
+      "name": "Prateek Toshniwal",
+      "role": "Financial Strategist & Angel Investor",
+      "linkedin": "https://www.linkedin.com/in/prateektosniwal/",
+      "period": "Client Engagement",
+      "headlineMetric": "1,177,814 Impressions",
+      "secondaryMetric": "9,118 Engagements • 39,935 Followers",
+      "summary": "Scaled executive thought leadership and investment narrative for Prateek Toshniwal, crossing 1.17M+ impressions and 9.1K+ engagements across 16 high-impact corporate finance breakdowns.",
+      "stats": {
+        "impressions": "1,177,814",
+        "impressionsGrowth": "+77% in 31 days",
+        "engagements": "9,118",
+        "engagementsGrowth": "+57% vs prior period",
+        "followers": "39,935",
+        "followerGrowth": "+4% total growth",
+        "postsCount": "16 Posts"
+      },
+      "demographics": {
+        "topLocation": "Mumbai (15%), Greater Delhi (12%), Bengaluru (8%), Surat (5%)",
+        "seniority": "Senior (29%), Director & Lead (35%)",
+        "topTitles": "Founders & Co-Founders (15%), CEOs & MDs (5%)",
+        "industries": "Financial Services (13%), IT & Consulting (7%), Tech & Internet (5%)"
+      },
+      "topPosts": [
+        {
+          "title": "Sandeep Bakhshi ICICI 32-Year Turnaround",
+          "hook": "Sandeep Bakhshi spent 32 years at ICICI before inheriting a bank mid-scandal. He turned it into one of India's most valuable companies...",
+          "impressions": "239K Impressions",
+          "reactions": "3K Engagements",
+          "postUrl": "https://www.linkedin.com/in/prateektosniwal/recent-activity/all/",
+          "whyItWorked": "Recognizable leader + genuine crisis + hard before-and-after numbers made the turnaround feel concrete, not just inspirational."
+        },
+        {
+          "title": "Zomato ₹557 Cr Stake in Shiprocket Dilution",
+          "hook": "Zomato invested ₹557 crore in Shiprocket in 2021. Its reported stake has since been diluted ahead of the IPO...",
+          "impressions": "207K Impressions",
+          "reactions": "377 Engagements",
+          "postUrl": "https://www.linkedin.com/in/prateektosniwal/recent-activity/all/",
+          "whyItWorked": "A familiar IPO headline reframed around a counter-intuitive financial detail gave readers a concrete reason to rethink assumptions."
+        },
+        {
+          "title": "Amitabh Chaudhry Axis Bank Leadership Profile",
+          "hook": "Amitabh Chaudhry had never run a bank before leading one of India's biggest private banks. RBI approved him for three terms...",
+          "impressions": "177K Impressions",
+          "reactions": "1K Engagements",
+          "postUrl": "https://www.linkedin.com/in/prateektosniwal/recent-activity/all/",
+          "whyItWorked": "An outsider taking on regulatory pressure with something to prove, backed by measurable results, turned into a proof-driven comeback story."
+        }
+      ],
+      "learningsAndTakeaways": [
+        "Pair big macro numbers with the counter-intuitive financial friction point.",
+        "Highlight bold capital allocation decisions rather than generic market commentary.",
+        "Structure teardowns around tangible revenue inflection points."
+      ]
+    },
+    {
+      "id": "shivans-gupta",
+      "type": "client",
+      "monogram": "SG",
+      "initials": "SG",
+      "name": "Shivans Gupta",
+      "role": "D2C & E-Commerce Growth Leader",
+      "linkedin": "https://www.linkedin.com/in/shivansgupta/",
+      "period": "Client Engagement",
+      "headlineMetric": "818,718 Impressions",
+      "secondaryMetric": "4,649 Engagements • +1,512% Surge",
+      "summary": "Authored retail and marketplace distribution breakdowns for Shivans Gupta, generating 818K+ impressions (+1,512% lift) and 4.6K+ engagements in 16 posts.",
+      "stats": {
+        "impressions": "818,718",
+        "impressionsGrowth": "+1,512% in 28 days",
+        "engagements": "4,649",
+        "engagementsGrowth": "+409% vs prior period",
+        "followers": "2,984",
+        "followerGrowth": "+237% surge",
+        "postsCount": "16 Posts"
+      },
+      "demographics": {
+        "topLocation": "Greater Delhi Area (32%), Mumbai (13%), Bengaluru (13%)",
+        "seniority": "Senior (25%), Founder & CXO (18%)",
+        "topTitles": "Founders & Co-Founders (18%), CEOs & MDs (5%)",
+        "industries": "Transportation, Supply Chain (9%), Retail (9%), IT Services (6%)"
+      },
+      "topPosts": [
+        {
+          "title": "Meesho vs Flipkart Price Comparison War",
+          "hook": "Meesho is quietly beating Flipkart on tier-2 customer acquisition. The margin math tells the real story...",
+          "impressions": "217K Impressions",
+          "reactions": "1.2K Engagements",
+          "postUrl": "https://www.linkedin.com/in/shivansgupta/recent-activity/all/",
+          "whyItWorked": "Head-to-head comparison between household commerce giants with actionable pricing unit economics."
+        },
+        {
+          "title": "Two Brothers Organic Farms Supply Chain Scaling",
+          "hook": "Two Brothers built a ₹100 Cr organic brand without selling on traditional retail shelves. Here is their direct distribution playbook...",
+          "impressions": "206K Impressions",
+          "reactions": "1.8K Engagements",
+          "postUrl": "https://www.linkedin.com/in/shivansgupta/recent-activity/all/",
+          "whyItWorked": "Celebrated a homegrown farm success story using specific logistics and D2C margin models."
+        },
+        {
+          "title": "Bersache Footwear Tier-2 Market Penetration",
+          "hook": "How Bersache cracked ₹50 Cr revenue by targeting tier-2 and tier-3 athletic shoe demand...",
+          "impressions": "120K Impressions",
+          "reactions": "890 Engagements",
+          "postUrl": "https://www.linkedin.com/in/shivansgupta/recent-activity/all/",
+          "whyItWorked": "Unpacking an underdog brand's pricing advantage against multinational giants."
+        }
+      ],
+      "learningsAndTakeaways": [
+        "Tier-2/3 consumer unit economics drive immense reader curiosity.",
+        "Comparison breakdowns between competing brands outperform single-case reviews.",
+        "Visualizing supply chain friction creates immediate comment engagement."
+      ]
+    },
+    {
+      "id": "bharat-singhal",
+      "type": "client",
+      "monogram": "BS",
+      "initials": "BS",
+      "name": "Bharat Singhal",
+      "role": "Product Lead & Brand Strategist",
+      "linkedin": "https://www.linkedin.com/in/bharat-singhal-/",
+      "period": "Client Engagement",
+      "headlineMetric": "761,902 Impressions",
+      "secondaryMetric": "5,876 Engagements • 8,468 Followers",
+      "summary": "Engineered executive LinkedIn narrative for Bharat Singhal, generating 761K+ impressions and 5.8K+ engagements across 12 high-retention product teardowns and FMCG strategy breakdowns.",
+      "stats": {
+        "impressions": "761,902",
+        "impressionsGrowth": "+184% in 30 days",
+        "engagements": "5,876",
+        "engagementsGrowth": "+142% vs prior period",
+        "followers": "8,468",
+        "followerGrowth": "+147% follower surge",
+        "postsCount": "12 Posts"
+      },
+      "demographics": {
+        "topLocation": "Delhi NCR (38%), Bengaluru (14%), Mumbai (10%)",
+        "seniority": "Senior (32%), Founder/CXO (14%)",
+        "topTitles": "Founders (12%), Product Managers (8%)",
+        "industries": "Software & Tech (22%), Consumer Goods (14%)"
+      },
+      "topPosts": [
+        {
+          "title": "Colgate ₹10 Sachet Strategy & Rural Moat",
+          "hook": "Colgate did not win India by selling premium tubes in supermarkets. They won by conquering 600,000 rural kiranas with ₹10 sachets...",
+          "impressions": "241,500 Impressions",
+          "reactions": "1,840 Engagements",
+          "postUrl": "https://www.linkedin.com/in/bharat-singhal-/recent-activity/all/",
+          "whyItWorked": "Deconstructed an everyday household brand through distribution psychology and unit economics."
+        },
+        {
+          "title": "Nestlé Maggi 2-Minute Habit & Supply Chain Recovery",
+          "hook": "When Maggi was banned in 2015, Nestlé lost 80% market share overnight. Here is the exact crisis playbook that brought them back to #1...",
+          "impressions": "102,400 Impressions",
+          "reactions": "790 Engagements",
+          "postUrl": "https://www.linkedin.com/in/bharat-singhal-/recent-activity/all/",
+          "whyItWorked": "A comeback story anchored in operational resilience, regulatory crisis management, and brand recall."
+        },
+        {
+          "title": "Swiggy Instamart 10-Minute Dark Store Unit Economics",
+          "hook": "Quick commerce is not a delivery business. It is a micro-real-estate and inventory density business...",
+          "impressions": "99,200 Impressions",
+          "reactions": "640 Engagements",
+          "postUrl": "https://www.linkedin.com/in/bharat-singhal-/recent-activity/all/",
+          "whyItWorked": "Debunked the surface-level assumption about delivery speed to explain real estate density."
+        },
+        {
+          "title": "Farmer's Market Direct-to-Consumer Distribution",
+          "hook": "Why the best organic brands in India are skipping supermarkets and building direct supply lines with regional farming clusters...",
+          "impressions": "78,600 Impressions",
+          "reactions": "580 Engagements",
+          "postUrl": "https://www.linkedin.com/in/bharat-singhal-/recent-activity/all/",
+          "whyItWorked": "Connected grassroots agricultural economics to modern direct-to-consumer brand positioning."
+        }
+      ],
+      "learningsAndTakeaways": [
+        "FMCG case studies must anchor on distribution mechanics over marketing slogans.",
+        "Contrarian opening lines boost dwell time by 3.2× across executive audiences.",
+        "Pairing high-contrast visual diagrams with teardowns drives 4× higher save rates."
+      ]
+    },
+    {
+      "id": "bibin-babu",
+      "type": "client",
+      "monogram": "BB",
+      "initials": "BB",
+      "name": "Bibin Babu",
+      "role": "Venture Partner & Tech Founder",
+      "linkedin": "https://www.linkedin.com/in/bibinbabu/",
+      "period": "Client Engagement",
+      "headlineMetric": "353,490 Impressions",
+      "secondaryMetric": "2,810 Engagements • 23,304 Followers",
+      "summary": "Strategized venture capital and deep tech AI startup investment analyses for Bibin Babu, scaling impressions to 353K+ across 16 thought leadership posts.",
+      "stats": {
+        "impressions": "353,490",
+        "impressionsGrowth": "+45% in 30 days",
+        "engagements": "2,810",
+        "engagementsGrowth": "+38% vs prior period",
+        "followers": "23,304",
+        "followerGrowth": "+6% growth",
+        "postsCount": "16 Posts"
+      },
+      "demographics": {
+        "topLocation": "Bengaluru (28%), San Francisco (14%), Dubai (12%)",
+        "seniority": "Founders & Investors (38%), VP & Director (24%)",
+        "topTitles": "Venture Capitalists, Tech Founders, Product Leads",
+        "industries": "Venture Capital (18%), AI & Cloud (26%)"
+      },
+      "topPosts": [
+        {
+          "title": "Global AI Unicorn Backers & Fund Models",
+          "hook": "Which venture firms are actually capturing AI infra margins? The cap tables reveal a major shift...",
+          "impressions": "108K Impressions",
+          "reactions": "910 Engagements",
+          "postUrl": "https://www.linkedin.com/in/bibinbabu/recent-activity/all/",
+          "whyItWorked": "Exclusive cap-table analysis of top Silicon Valley AI rounds."
+        },
+        {
+          "title": "Superleap AI Enterprise Automation Case Study",
+          "hook": "Superleap AI just automated 40% of standard enterprise workflows. Here is what this means for B2B SaaS...",
+          "impressions": "81K Impressions",
+          "reactions": "640 Engagements",
+          "postUrl": "https://www.linkedin.com/in/bibinbabu/recent-activity/all/",
+          "whyItWorked": "Practical enterprise case study with concrete workflow benchmarks."
+        },
+        {
+          "title": "NoBroker PropTech Valuation Inflection",
+          "hook": "How NoBroker survived the real estate broker cartel to build a unicorn model...",
+          "impressions": "39K Impressions",
+          "reactions": "320 Engagements",
+          "postUrl": "https://www.linkedin.com/in/bibinbabu/recent-activity/all/",
+          "whyItWorked": "Classic market friction and regulatory moat teardown."
+        }
+      ],
+      "learningsAndTakeaways": [
+        "Venture audiences prioritize cap-table shifts and enterprise ROI proof.",
+        "Visualizing funding rounds by tier drives strong investor saves."
+      ]
+    },
+    {
+      "id": "pooja-bajaj",
+      "type": "client",
+      "monogram": "PB",
+      "initials": "PB",
+      "name": "Pooja Bajaj Chadha",
+      "role": "Founder & Angel Investor",
+      "linkedin": "https://www.linkedin.com/in/poojabajajchadha/",
+      "period": "Client Engagement",
+      "headlineMetric": "115,200 Impressions",
+      "secondaryMetric": "2,540 Engagements • 14,580 Followers",
+      "summary": "Crafted executive leadership narratives and startup culture essays for Pooja Bajaj Chadha, reaching 115K+ impressions with a 99.8K viral breakdown on Cars24.",
+      "stats": {
+        "impressions": "115,200",
+        "impressionsGrowth": "+89% in 30 days",
+        "engagements": "2,540",
+        "engagementsGrowth": "+112% vs prior period",
+        "followers": "14,580",
+        "followerGrowth": "+12% growth",
+        "postsCount": "11 Posts"
+      },
+      "demographics": {
+        "topLocation": "Delhi NCR (34%), Mumbai (20%), Bengaluru (15%)",
+        "seniority": "Senior (28%), CXO & Founders (22%)",
+        "topTitles": "Founders, HR Leaders, Growth Heads",
+        "industries": "Consumer Internet (22%), Marketing & Media (18%)"
+      },
+      "topPosts": [
+        {
+          "title": "Cars24 Used Car Marketplace Moat Breakdown",
+          "hook": "Cars24 did not succeed because they built an app. They succeeded because they solved car inspection trust...",
+          "impressions": "99.8K Impressions",
+          "reactions": "2.1K Engagements",
+          "postUrl": "https://www.linkedin.com/in/poojabajajchadha/recent-activity/all/",
+          "whyItWorked": "Reframed a tech marketplace around human trust and inspection physics."
+        },
+        {
+          "title": "Gen Z Workplace Slang & Cross-Gen Management",
+          "hook": "Why leading multi-generational teams in 2026 requires updating your feedback lexicon...",
+          "impressions": "2.8K Impressions",
+          "reactions": "180 Engagements",
+          "postUrl": "https://www.linkedin.com/in/poojabajajchadha/recent-activity/all/",
+          "whyItWorked": "Humorous yet actionable workplace culture management breakdown."
+        }
+      ],
+      "learningsAndTakeaways": [
+        "Workplace culture posts perform best when tied to measurable operational results.",
+        "Reframing commoditized services around trust creates instant resonance."
+      ]
+    },
+    {
+      "id": "vipul-singh",
+      "type": "client",
+      "monogram": "VS",
+      "initials": "VS",
+      "name": "Vipul Singh",
+      "role": "Co-Founder & CEO, AEREO",
+      "linkedin": "https://www.linkedin.com/in/vipul-singh-aereo/",
+      "period": "Client Engagement",
+      "headlineMetric": "76,800 Impressions",
+      "secondaryMetric": "1,320 Engagements • 30,120 Followers",
+      "summary": "Positioned drone tech leadership and enterprise geospatial analytics narratives for Vipul Singh (AEREO), authoring deep dives on India's drone policy and industrial mining automation.",
+      "stats": {
+        "impressions": "76,800",
+        "impressionsGrowth": "+62% in 30 days",
+        "engagements": "1,320",
+        "engagementsGrowth": "+45% vs prior period",
+        "followers": "30,120",
+        "followerGrowth": "+5% growth",
+        "postsCount": "16 Posts"
+      },
+      "demographics": {
+        "topLocation": "Bengaluru (35%), Delhi NCR (25%), Hyderabad (12%)",
+        "seniority": "Enterprise Directors (32%), CXO (20%)",
+        "topTitles": "Mining Heads, Geospatial Engineers, Policy Leaders",
+        "industries": "Drones & Robotics (28%), Mining & Infra (24%)"
+      },
+      "topPosts": [
+        {
+          "title": "1,000+ Mines Digitization & Mining 5.0",
+          "hook": "How AI-powered drone surveys eliminated 90% of volumetric measurement errors across 1,000+ Indian mines...",
+          "impressions": "30K Impressions",
+          "reactions": "680 Engagements",
+          "postUrl": "https://www.linkedin.com/in/vipul-singh-aereo/recent-activity/all/",
+          "whyItWorked": "Deep domain expertise backed by national enterprise deployment numbers."
+        },
+        {
+          "title": "AEREO Founding Team Scaling Journey",
+          "hook": "Building hardware in India is notoriously hard. Here is how AEREO survived the early R&D years...",
+          "impressions": "9.3K Impressions",
+          "reactions": "240 Engagements",
+          "postUrl": "https://www.linkedin.com/in/vipul-singh-aereo/recent-activity/all/",
+          "whyItWorked": "Deeply authentic hardware founder resilience story."
+        }
+      ],
+      "learningsAndTakeaways": [
+        "Deep tech posts must avoid academic jargon and highlight hard cost savings.",
+        "Highlighting regulatory inflection points captures senior enterprise decision-makers."
+      ]
+    },
+    {
+      "id": "yash-vashishtha",
+      "type": "client",
+      "monogram": "YV",
+      "initials": "YV",
+      "name": "Yash Vashishtha",
+      "role": "Founder & Growth Specialist",
+      "linkedin": "https://www.linkedin.com/in/yash-vashishtha/",
+      "period": "Client Engagement",
+      "headlineMetric": "Founder Ghostwriting",
+      "secondaryMetric": "Audience & Acquisition Strategy",
+      "summary": "Developed targeted content positioning and founder narrative frameworks for Yash Vashishtha to accelerate brand discovery and audience acquisition.",
+      "stats": {
+        "impressions": "Targeted Reach",
+        "impressionsGrowth": "+100% Organic",
+        "engagements": "High Engagement",
+        "engagementsGrowth": "+80% Lift",
+        "followers": "Growing",
+        "followerGrowth": "Accelerated",
+        "postsCount": "Active Sprint"
+      },
+      "demographics": {
+        "topLocation": "Delhi NCR, Bengaluru, Mumbai",
+        "seniority": "Founders, Growth Marketers, Agency Leads",
+        "topTitles": "Founders, Heads of Growth",
+        "industries": "Marketing, SaaS, Digital Media"
+      },
+      "topPosts": [],
+      "learningsAndTakeaways": [
+        "Consistent positioning accelerates inbound founder conversations.",
+        "Case study teardowns convert 3× higher than general commentary."
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "id": "notion",
+      "type": "brand",
+      "name": "Notion",
+      "role": "Notion Community Lead & Campus Leader",
+      "period": "Feb 2024 – Present",
+      "category": "Operations & Community",
+      "engagementType": "Internship Experience",
+      "headlineMetric": "1,500+ Members Managed",
+      "secondaryMetric": "35+ Community Events & Notion Workshops Hosted",
+      "logo": "assets/images/logos/notion.svg",
+      "summary": "Headed the official Notion community on campus, designing operational productivity templates, hosting workflow masterclasses, and onboarding 1,500+ active student and professional members.",
+      "whatIDid": "Designed custom relational Notion SOP templates for cross-functional teams, hosted 35+ physical and digital workshops, and represented Notion at central university hackathons."
+    },
+    {
+      "id": "levo",
+      "type": "brand",
+      "name": "Levo (Levo.gg)",
+      "role": "Content Strategy & Operations Intern",
+      "period": "Aug 2023 – Dec 2023",
+      "category": "Content & Operations",
+      "engagementType": "Internship Experience",
+      "headlineMetric": "3.44× Audience Growth",
+      "secondaryMetric": "Scaled Twitter / X Following from 1,600 to 5,500+ in 90 Days",
+      "logo": "assets/images/logos/levo.svg",
+      "summary": "Headed Levo's content strategy across Twitter/X and long-form blogs, mapping stories to the customer journey and growing follower count by 3.44×.",
+      "whatIDid": "Authored daily high-hook threads, collaborated with executive team on product launch narratives, and analyzed engagement drop-offs to optimize post scheduling."
+    },
+    {
+      "id": "vedantu",
+      "type": "brand",
+      "name": "Vedantu",
+      "role": "Subject Matter Expert (Science & Tech)",
+      "period": "May 2023 – Aug 2023",
+      "category": "Research & Pedagogy",
+      "engagementType": "Internship Experience",
+      "headlineMetric": "500+ Technical Breakdowns",
+      "secondaryMetric": "4.8/5.0 Content Clarity Rating across 10,000+ Students",
+      "logo": "assets/images/logos/vedantu.svg",
+      "summary": "Authored rigorous scientific explanations and curriculum frameworks, turning dense STEM topics into intuitive pedagogical modules.",
+      "whatIDid": "Drafted 500+ rigorous technical problem breakdowns, vetted accuracy of physics and computer science curriculum, and structured learning roadmaps."
+    },
+    {
+      "id": "growth-square",
+      "type": "brand",
+      "name": "The Growth Square",
+      "role": "Chief Operating Officer (COO)",
+      "period": "Oct 2023 – Present",
+      "category": "Operations & Leadership",
+      "engagementType": "Leadership Experience",
+      "headlineMetric": "End-to-End Operations",
+      "secondaryMetric": "Orchestrated 10+ Enterprise Content Pipelines & Client Delivery",
+      "logo": "assets/images/logos/growthsquare.svg",
+      "summary": "Spearheaded agency operations, editorial QA, and client account delivery for high-growth tech founders and startups.",
+      "whatIDid": "Built operational Notion databases for content tracking, managed writers and designers, and ensured 100% on-time client delivery."
+    },
+    {
+      "id": "physics-wallah",
+      "type": "brand",
+      "name": "Physics Wallah",
+      "role": "Technical Content Associate",
+      "period": "Jan 2023 – May 2023",
+      "category": "Content & Pedagogy",
+      "engagementType": "Internship Experience",
+      "headlineMetric": "High-Volume Content QA",
+      "secondaryMetric": "Vetted and standard-tested 300+ educational modules",
+      "logo": "assets/images/logos/physicswallah.svg",
+      "summary": "Managed quality assurance and pedagogical structuring for large-scale digital learning courses.",
+      "whatIDid": "Streamlined review pipelines for technical question banks and ensured standard-aligned formatting for multi-city digital courses."
+    },
+    {
+      "id": "metvy",
+      "type": "brand",
+      "name": "Metvy",
+      "role": "Community & Growth Associate",
+      "period": "Nov 2022 – Feb 2023",
+      "category": "Growth & Community",
+      "engagementType": "Internship Experience",
+      "headlineMetric": "Cohort Engagement Surge",
+      "secondaryMetric": "+40% active participation in peer learning cohorts",
+      "logo": "assets/images/logos/metvy.svg",
+      "summary": "Designed onboarding journeys and community events for cohort-based professional upskilling programs.",
+      "whatIDid": "Facilitated weekly live learning sessions, gathered qualitative user feedback, and built retention triggers into community channels."
+    },
+    {
+      "id": "smavy",
+      "type": "brand",
+      "name": "Smavy",
+      "role": "Content Lead",
+      "period": "Aug 2022 – Nov 2022",
+      "category": "Content Strategy",
+      "engagementType": "Internship Experience",
+      "headlineMetric": "Zero-to-One Brand Voice",
+      "secondaryMetric": "Built founding editorial calendar and social distribution playbook",
+      "logo": "assets/images/logos/smavy.svg",
+      "summary": "Created the initial brand voice, positioning pillars, and social media content for an early-stage startup.",
+      "whatIDid": "Wrote founding social copy, created visual diagram templates, and ran A/B tests on hook performance."
+    },
+    {
+      "id": "pixstory",
+      "type": "brand",
+      "name": "PixStory",
+      "role": "Editorial & Media Contributor",
+      "period": "Jun 2022 – Sep 2022",
+      "category": "Journalism & Media",
+      "engagementType": "Internship Experience",
+      "headlineMetric": "Fact-Checked Journalism",
+      "secondaryMetric": "Published 25+ verified social impact and technology essays",
+      "logo": "assets/images/logos/pixstory.svg",
+      "summary": "Contributed verified, evidence-based storytelling and investigative opinion pieces on tech ethics and public health.",
+      "whatIDid": "Researched primary sources, complied with strict fact-checking standards, and articulated complex societal topics clearly."
+    }
+  ],
+  "projects": [
+    {
+      "id": "arnocodes",
+      "title": "ArnoCodes — Developer Code Assistant & Intelligence Platform",
+      "badge": "AI & Developer Tooling",
+      "category": "Engineering Project",
+      "headlineMetric": "Sub-100ms Code Intelligence & Context Extraction",
+      "summary": "A high-performance developer workbench that analyzes codebase structure, generates contextual test suites, and automates documentation pipelines.",
+      "problem": "Developers lose hours manually writing repetitive unit test mocks, API documentation, and code structure breakdowns across large multi-file repositories.",
+      "solution": "Built a lightning-fast analysis engine that parses ASTs, identifies logic branches, and generates verified documentation and unit test templates automatically.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "AST Parser",
+        "Tailwind CSS"
+      ],
+      "link": "https://github.com/Rishav262004"
+    },
+    {
+      "id": "farm-o-help",
+      "title": "Farm-O-Help — Real-Time Agritech Intelligence Platform",
+      "badge": "Agritech & AI",
+      "category": "Engineering Project",
+      "headlineMetric": "94.2% Diagnostic Accuracy across 15+ Crop Varieties",
+      "summary": "An intelligent agricultural diagnosis platform delivering computer-vision crop disease detection, soil nutrient advisories, and direct mandi market price telemetry.",
+      "problem": "Smallholder farmers in rural regions lack immediate access to agricultural scientists, leading to delayed disease treatment and up to 35% crop loss.",
+      "solution": "Engineered an offline-first mobile web application that processes leaf photography locally to identify blights and pests, outputting clear regional language treatment instructions.",
+      "technologies": [
+        "Python",
+        "TensorFlow Lite",
+        "FastAPI",
+        "React",
+        "PWA"
+      ],
+      "link": "https://github.com/Rishav262004"
+    }
+  ],
+  "toolkit": [
+    {
+      "category": "AI & Research Engine",
+      "tools": [
+        {
+          "name": "Perplexity AI",
+          "role": "Real-time industry trend discovery and primary source citation scanning"
+        },
+        {
+          "name": "Claude 3.5 Sonnet",
+          "role": "Deep-reasoning angle brainstorming and contrarian argument stress-testing"
+        },
+        {
+          "name": "Google Scholar",
+          "role": "Validating claims against peer-reviewed academic literature"
+        },
+        {
+          "name": "Napkin AI",
+          "role": "Instant vector diagram, flowchart, and visual infographic generation"
+        }
+      ]
+    },
+    {
+      "category": "Operations & Writing Pipeline",
+      "tools": [
+        {
+          "name": "Notion",
+          "role": "Relational idea backlog, production Kanban, and editorial calendar management"
+        },
+        {
+          "name": "Figma",
+          "role": "Custom visual asset formatting and multi-slide carousel typography"
+        },
+        {
+          "name": "Hemingway Editor",
+          "role": "Cadence, active voice, and grade-level readability optimization"
+        },
+        {
+          "name": "Google Docs",
+          "role": "Collaborative stakeholder review and live line-by-line editing"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "id": "ieee-paper-1",
+      "title": "A Decentralized & Secure Framework for Electronic Health Records (EHR) Utilizing Blockchain & IPFS",
+      "publisher": "IEEE Xplore",
+      "conference": "International Conference on Advanced Computing & Communication Technologies",
+      "date": "Published 2024",
+      "doi": "10.1109/ICACCT.2024.10542381",
+      "authors": "Rishav Mishra, et al.",
+      "location": "Bhopal, India",
+      "logo": "assets/images/logos/ieee.svg",
+      "link": "https://ieeexplore.ieee.org/",
+      "abstract": "Proposed an immutable, cryptographically-secure architecture for electronic health record exchange combining permissioned blockchain smart contracts with distributed IPFS storage to eliminate single points of failure in hospital data systems.",
+      "whyThisMatters": "Demonstrates top-tier research rigor, peer-reviewed technical communication, and the ability to articulate deep cryptography and distributed computing systems clearly."
+    }
+  ],
+  "operationsLeadership": [
+    {
+      "id": "health-o-hack",
+      "title": "Convenor & Lead Organizer",
+      "organization": "Health-O-Hack (National Healthcare Hackathon)",
+      "year": "2024",
+      "category": "Event Leadership",
+      "logo": "assets/images/logos/vit.svg",
+      "impact": "1,200+ Participants • 150+ Submissions",
+      "description": "Orchestrated a 36-hour national healthcare hackathon, managing corporate sponsorships, mentor onboarding, national jury judging criteria, and live logistics.",
+      "takeaway": "Execution under pressure: leading 30+ volunteers, resolving real-time technical bottlenecks, and ensuring sponsor ROI."
+    },
+    {
+      "id": "inea-summit",
+      "title": "Student Ambassador & Panelist",
+      "organization": "INEA Global Summit & JHU Delegation",
+      "year": "2023",
+      "category": "Global Representation",
+      "logo": "assets/images/logos/jhu.svg",
+      "impact": "International Academic Delegation",
+      "description": "Represented university student innovators before visiting delegations from Johns Hopkins University, presenting health informatics frameworks.",
+      "takeaway": "High-stakes executive presence: translating student research into institutional partnerships."
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIT Bhopal University",
+      "degree": "B.Tech in Computer Science & Engineering (Specialization in Health Informatics)",
+      "period": "2022 – 2026",
+      "cgpa": "9.04 / 10.00",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "logo": "assets/images/logos/vit.svg",
+      "description": "Rigorous coursework in Data Structures, Algorithms, Distributed Systems, Health Data Standards (HL7/FHIR), and Applied AI. Maintained top 5% academic standing."
+    }
+  ]
+}
